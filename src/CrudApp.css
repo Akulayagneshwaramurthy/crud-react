@@ -1,0 +1,108 @@
+/* CrudApp.css */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Arial, sans-serif;
+  }
+  
+  body {
+    background-color: #f5f5f5;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+  }
+  
+  .crud-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    padding: 20px;
+  }
+  
+  .crud-card {
+    background-color: white;
+    border-radius: 8px;
+    box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+    width: 100%;
+    max-width: 500px;
+    padding: 25px;
+  }
+  
+  .crud-title {
+    color: #5a6a7a;
+    text-align: center;
+    margin-bottom: 20px;
+    font-size: 24px;
+    font-weight: 600;
+  }
+  
+  .crud-form {
+    display: flex;
+    margin-bottom: 20px;
+  }
+  
+  .crud-input {
+    flex-grow: 1;
+    padding: 10px 15px;
+    border: 1px solid #ddd;
+    border-radius: 4px 0 0 4px;
+    font-size: 16px;
+    outline: none;
+  }
+  
+  .crud-button {
+    padding: 10px 20px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    font-size: 14px;
+    font-weight: bold;
+    transition: background-color 0.2s;
+    color: white;
+  }
+  
+  .update-button {
+    background-color: #17a2b8;
+    border-radius: 0 4px 4px 0;
+  }
+  
+  .update-button:hover {
+    background-color: #138496;
+  }
+  
+  .edit-button, .delete-button {
+    background-color: #ffa62b;
+    margin-left: 5px;
+  }
+  
+  .edit-button:hover, .delete-button:hover {
+    background-color: #ff9415;
+  }
+  
+  .crud-items {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+  }
+  
+  .crud-item {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 12px 15px;
+    border: 1px solid #eee;
+    border-radius: 4px;
+  }
+  
+  .item-text {
+    font-size: 16px;
+    color: #444;
+  }
+  
+  .item-buttons {
+    display: flex;
+    gap: 5px;
+  }
