@@ -72,6 +72,7 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 
 
 React CRUD App
+
 This is a simple CRUD (Create, Read, Update, Delete) web application built using React. The application allows users to add, edit, and delete names dynamically.
 
 Features
@@ -81,12 +82,12 @@ Features
 ✅ User-friendly UI with React components
 
 Screenshots
-Home Page
 
-Adding a New Entry
+![CRUD](https://github.com/Akulayagneshwaramurthy/crud-react/blob/master/image-1.png?raw=true)
 
-Updated List After Adding Entry
+![CRUD](https://github.com/Akulayagneshwaramurthy/crud-react/blob/master/image-2.png?raw=true)
 
+![CRUD](https://github.com/Akulayagneshwaramurthy/crud-react/blob/master/image-3.png?raw=true)
 Technologies Used
 React.js
 
@@ -109,15 +110,15 @@ Delete a Name: Remove any name from the list.
 User-Friendly UI: Simple and interactive design.
 
 Screenshots
-1. Adding a Name
 
-2. Editing a Name
+![CRUD](https://github.com/Akulayagneshwaramurthy/crud-react/blob/master/image-4.png?raw=true)
 
-3. Updating a Name
+![CRUD](https://github.com/Akulayagneshwaramurthy/crud-react/blob/master/image-5.png?raw=true)
 
-4. Deleting a Name
+![CRUD](https://github.com/Akulayagneshwaramurthy/crud-react/blob/master/image-6.png?raw=true)
 
 Technologies Used
+
 React.js: Frontend framework
 
 CSS: For styling
@@ -125,4 +126,5 @@ CSS: For styling
 Hooks (useState, useEffect): For managing state
 
 Contribution
+
 Feel free to fork the repository, create a feature branch, and submit a pull request!
