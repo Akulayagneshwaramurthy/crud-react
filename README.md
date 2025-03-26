@@ -68,3 +68,61 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+
+
+React CRUD App
+This is a simple CRUD (Create, Read, Update, Delete) web application built using React. The application allows users to add, edit, and delete names dynamically.
+
+Features
+✅ Add new entries
+✅ Edit existing entries
+✅ Delete entries
+✅ User-friendly UI with React components
+
+Screenshots
+Home Page
+
+Adding a New Entry
+
+Updated List After Adding Entry
+
+Technologies Used
+React.js
+
+HTML & CSS
+
+JavaScript
+
+Contributing
+Pull requests are welcome! Feel free to improve the UI, add new features, or optimize the code
+
+Features
+Add a New Name: Users can input a name and add it to the list.
+
+Edit a Name: The existing names in the list can be modified.
+
+Update a Name: After editing, users can update the name.
+
+Delete a Name: Remove any name from the list.
+
+User-Friendly UI: Simple and interactive design.
+
+Screenshots
+1. Adding a Name
+
+2. Editing a Name
+
+3. Updating a Name
+
+4. Deleting a Name
+
+Technologies Used
+React.js: Frontend framework
+
+CSS: For styling
+
+Hooks (useState, useEffect): For managing state
+
+Contribution
+Feel free to fork the repository, create a feature branch, and submit a pull request!
